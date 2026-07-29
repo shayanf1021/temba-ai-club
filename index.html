@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TEMBA AI Club</title>
+  <meta name="description" content="TEMBA AI Club at McCombs — meeting schedule, the weekly AI news digest, and resources." />
+  <meta property="og:title" content="TEMBA AI Club" />
+  <meta property="og:description" content="Meeting schedule, the weekly AI news digest, and resources." />
+  <meta property="og:image" content="logo.png" />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <a class="wordmark" href="#top">
+        <img src="logo_transparent.png" alt="" onerror="this.style.display='none'" />
+        <span>TEMBA AI Club</span>
+      </a>
+      <nav class="nav">
+        <a href="#schedule">Schedule</a>
+        <a href="#news">News</a>
+        <a href="#resources">Resources</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- Hero -->
+    <section class="hero wrap">
+      <div class="hero-mark">
+        <img src="logo_transparent.png" alt="TEMBA AI Club mascot" onerror="this.parentNode.style.display='none'" />
+      </div>
+      <p class="eyebrow">McCombs · Texas Evening MBA</p>
+      <h1>AI Club</h1>
+      <p class="lede" id="hero-tagline">Exploring artificial intelligence together.</p>
+      <p class="standing" id="hero-standing"></p>
+      <a class="btn" href="https://groupme.com/join_group/113731580/WzIQ0911" target="_blank" rel="noopener">
+        Join the GroupMe<span class="ext">↗</span>
+      </a>
+    </section>
+
+    <!-- Next meeting -->
+    <section class="wrap">
+      <div class="next" id="next-meeting">
+        <div class="next-when">
+          <span class="next-month" id="nm-month"></span>
+          <span class="next-day" id="nm-daynum"></span>
+          <span class="next-weekday" id="nm-weekday"></span>
+        </div>
+        <div class="next-what">
+          <p class="eyebrow">Next meeting</p>
+          <h2 id="nm-topic">Loading…</h2>
+          <p class="next-meta">
+            <span id="nm-time"></span>
+            <span class="dot">·</span>
+            <span id="nm-room"></span>
+          </p>
+        </div>
+        <p class="next-count" id="nm-countdown"></p>
+      </div>
+    </section>
+
+    <!-- Schedule -->
+    <section class="section wrap" id="schedule">
+      <div class="section-head">
+        <p class="eyebrow">Fall 2026</p>
+        <h2>Schedule</h2>
+      </div>
+      <p class="section-note">We meet every other Monday. Select a marked day for details.</p>
+      <div class="calendar" id="calendar"></div>
+      <ul class="legend">
+        <li><span class="key key-next"></span>Next</li>
+        <li><span class="key key-upcoming"></span>Upcoming</li>
+        <li><span class="key key-past"></span>Past</li>
+        <li><span class="key key-break"></span>No meeting</li>
+      </ul>
+
+      <div class="speakers-block" id="speakers-block" hidden>
+        <p class="speakers-head">Speaker Biographies</p>
+        <div class="speakers" id="speakers"></div>
+      </div>
+    </section>
+
+    <!-- News -->
+    <section class="section wrap" id="news">
+      <div class="section-head">
+        <p class="eyebrow">Every Monday</p>
+        <h2>AI News</h2>
+      </div>
+      <p class="section-note">What we've been reading, week by week.</p>
+      <div class="news" id="news-list"></div>
+    </section>
+
+    <!-- Resources -->
+    <section class="section wrap" id="resources">
+      <div class="section-head">
+        <p class="eyebrow">Slides &amp; links</p>
+        <h2>Meeting Resources</h2>
+      </div>
+      <div class="resources" id="resources-list"></div>
+    </section>
+
+    <!-- About -->
+    <section class="section wrap" id="about">
+      <div class="section-head">
+        <p class="eyebrow">Who we are</p>
+        <h2>About</h2>
+      </div>
+      <div class="prose">
+        <p>
+          TEMBA AI Club was founded by the Class of 2027 to share what we're learning
+          and to push AI further into our TEMBA class. We bring in guest speakers, pass
+          around what we're reading, and make room to experiment together.
+        </p>
+        <a class="btn" href="https://groupme.com/join_group/113731580/WzIQ0911" target="_blank" rel="noopener">
+          Join the GroupMe<span class="ext">↗</span>
+        </a>
+        <p class="contact">
+          Questions? Contact
+          <a href="mailto:saf3532@my.utexas.edu">Shayan</a> or
+          <a href="mailto:tkb522@my.utexas.edu">Tyler</a>.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <span>TEMBA AI Club</span>
+      <span class="footer-year">© <span id="footer-year"></span></span>
+    </div>
+  </footer>
+
+  <script src="meetings.js"></script>
+  <script src="news-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
