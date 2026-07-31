@@ -55,6 +55,21 @@ const MEETINGS = [
     ],
   },
   {
+    date: "2026-06-29",
+    topic: "Guest Speaker: Prof. John Graff",
+    time: "5:15–5:50 PM",
+    room: "RRH 3.406",
+    description: "Join us for a talk with Prof. John Graff.",
+    speaker: "John Graff",
+    bio: [
+      "John Graff is an assistant professor of instruction in the McCombs School of Business at The University of Texas at Austin, where he leads MBA and undergraduate classes on business strategy. Graff has more than 25 years of senior management experience at a variety of technology companies, where he has been part of driving successful growth initiatives, IPOs, turnarounds, and acquisitions. He has a strong track record of building highly engaged teams, working across functional/organizational boundaries, and helping inspire a company culture that led to recognition as one of the Best Places to Work. Graff served as interim chief marketing officer for McCombs from December 2022 to May 2023.",
+      "Before joining McCombs, Graff was the chief marketing officer at Sonim Technologies, a leading manufacturer of rugged mobile handsets used in mission-critical applications. He previously served as vice president of marketing for Austin-based startup Uhnder, which was coming out of stealth mode as it launched the industry’s first digital automotive radar, enabling enhanced automotive safety and autonomy capabilities. He also served as the chief revenue officer of Xplore Technologies, a leading supplier and authority in rugged mobility. After Zebra Technologies acquired Xplore Technologies in 2018, Graff became the vice president of sales and marketing, where he led the rugged tablet business and ensured the rapid integration of the former Xplore Technologies business. He also worked at National Instruments for 29 years in a variety of sales and marketing management roles. During his tenure at NI, the company delivered consistent growth and profitability as it grew from $13 million in revenue to over $1 billion.",
+      "A science, technology, engineering, and math (STEM) evangelist, Graff serves on the Past Presidents’ Council of Thinkery (previously the Austin Children’s Museum).",
+      "Graff earned a bachelor’s degree in electrical engineering from The University of Texas at Austin."
+    ],
+    resources: [],
+  },
+  {
     date: "2026-09-14",
     topic: "Guest Speaker: Prof. Ben Bentzin",
     time: "5:15–5:50 PM",
