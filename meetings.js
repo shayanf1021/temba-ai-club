@@ -99,7 +99,7 @@ const MEETINGS = [
   },
   {
     date: "2026-10-26",
-    topic: "Build Night",
+    topic: "Hackathon 👀",
     time: "5:15–5:50 PM",
     room: "RRH 3.406",
     description: "No speaker this week — just time to build. Bring your projects.",

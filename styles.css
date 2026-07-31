@@ -23,6 +23,7 @@
 html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
+  background: var(--paper);
 }
 
 body {
@@ -179,6 +180,11 @@ a { color: inherit; }
   width: 196px;
   height: 196px;
   object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+.hero-mark img:hover {
+  transform: scale(1.04);
 }
 
 /* ---------- Next meeting ---------- */
