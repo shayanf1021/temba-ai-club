@@ -1,3 +1,51 @@
+**8/3**
+
+1\) OpenAI:
+  - [ChatGPT at 1 billion WAUs](https://x.com/amir/status/2082294535963767131?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [OpenAI cuts GPT-5.6 prices, Luna down 80%](https://www.axios.com/2026/07/30/openai-cuts-prices-gpt-terra-luna5)
+  - [GPT-5.6 Sol makes itself more efficient: 20% lower serving costs](https://x.com/OpenAI/status/2082577277246972300)
+  - [How enabling two settings 3x’d ARC-AGI-3 scores](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/)
+  - [ChatGPT for Academic Researchers](https://x.com/OpenAI/status/2082516370949062989): 10,000 get it for free to start #Science
+  - [“Astra” series of models are next](https://www.theinformation.com/briefings/exclusive-openai-previews-astra-ai-model-dc), [solves 10 hard problems](https://openai.com/index/ten-advances-in-mathematics/)
+  - [Chrome extension updates](https://x.com/ChatGPT/status/2082970812584432115)
+
+2\) Anthropic:
+  - [Anthropic's models compromised real-world systems during testing](https://www.axios.com/2026/07/30/anthropic-mythos-security-testing)
+  - [Discovering cryptographic weaknesses with Claude](https://x.com/AnthropicAI/status/2082153297670992134)
+
+3\) More Chinese models:
+  - [DeepSeek v4 Flash close to Opus 4.8, fully open source](https://x.com/kimmonismus/status/2083098302577287330) and [cheap](https://x.com/kimmonismus/status/2083144340176609556)
+  - [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8): 2.4T parameters (95B active), with open weights releasing next week
+
+4\) [Karpathy: first paragraph of the Lord of the Rings eval](https://x.com/karpathy/status/2083749667410727319).
+
+5\) GenUI: [3D human anatomy application](https://x.com/thebuggeddev/status/2083884856531177942) and [Art History game](https://x.com/david_perell/status/2083727602523512979).
+
+6\) [LinkedIn introduces a 'Seems Like AI Slop' button](https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/).
+
+7\) [Introducing Supabase Evals](https://x.com/supabase/status/2083282155170340898?s=12&t=ztI5pSawHTJNtVA16s1KPw): The benchmark for how well AI coding agents build with Supabase. #Kaggle
+
+8\) [Grok Build Mode](https://x.com/grok/status/2082134072793637196?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+  - [Satya talking about his vibe coded app on MSFT earnings call](https://x.com/satyanadella/status/2082640036949008570)
+
+9\) [Gauntlet Loop: build games from prompts](https://x.com/mattshumer_/status/2082509137024274544).
+  - [Backyard redesign project game](https://x.com/ericsmith1302/status/2082924718709969013?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+10\) A bottleneck: [Biology and statistical reasoning datasets](https://x.com/andrewho03/status/2082615798011744270).
+
+11\) Costs dropping:
+  - [DeepSeek's V4-Flash costs $0.03 per test, far below Kimi K3's $0.86 and GPT-5.6 Sol's $1.8](https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/)
+  - [Fish Audio claims its new model, S2.1 Pro, can cut your voice AI costs by 50%](https://x.com/fishaudio/status/2082152596739862853?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+12\) [HeyGen video podcabgsts](https://x.com/HeyGen/status/2082510248489943367).
+
+13\) [Harvey announces Harvey Labs, open source evals, and its own model training program](https://x.com/gabepereyra/status/2067324200801452105).
+
+14\) [Town adds Town Wiki: a living page of everything your Townie knows about you. Your work style, your preferences, your goals, the projects you're moving through. It updates every night. You can edit it anytime](https://x.com/TownAI/status/2082492858372907270?s=51).
+
+15\) [Ultra-thin display film technology tested in Shenzhen](https://x.com/Rainmaker1973/status/2083469397394374920).
+
+
 **7/27**
 
 1\) OpenAI:

@@ -11,7 +11,7 @@
 
 const CLUB_INFO = {
   name: "TEMBA AI Club",
-  tagline: "Business students exploring artificial intelligence together.",
+  tagline: "Business students exploring artificial intelligence together",
   // Default meeting time & room, shown in the header banner.
   meetingTime: "5:15–5:50 PM",
   meetingRoom: "RRH 3.406",
