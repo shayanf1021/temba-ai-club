@@ -1,3 +1,35 @@
+**8/10**
+
+1\) OpenAI:
+  - [New Astra model has advanced cybersecurity capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
+  - [GPT-Live system design](https://x.com/openai/status/2084378415818579975?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Chat and Work tabs starting to confuse people](https://x.com/signulll/status/2086586335838842972)
+
+2\) Anthropic:
+  - [Creating in-house chip design team for Claude](https://www.reuters.com/business/anthropic-build-in-house-chip-design-team-claude-hire-engineers-2026-08-05/)
+
+3\) Meta:
+  - [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) ([AA charts](https://artificialanalysis.ai/articles/muse-spark-1-2))
+  - [Open sourcing Muse Glimmer, and Muse Spark 1.2 soon](https://x.com/i/status/2086755195535413696)
+  - [Zuck: “The Future is for Everyone” manifesto](https://www.meta.com/thefutureisforeveryone/)
+
+4\) Cyber:
+  - [Sebastian Mallaby’s overview on the last 5 cyber incidents](https://sebastianmallaby.substack.com/p/extra-the-summer-of-cyberhacks?r=t9zbp)
+  - [OpenAI’s Black Hat talk](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/)
+  - [A man’s agent gets him a spot in a popular gym class by finding a vulnerability](https://x.com/AndrewCurran_/status/2086567854850384054)
+
+5\) China:
+  - [Bytedance starting 10T pretraining run](https://www.techtimes.com/articles/323603/20260807/bytedance-begins-biggest-ai-build-china-rules-out-rival-copying-shortcut.htm), largest ever in China
+  - [Seedance 2.5: 50 references, 30s generation, enhanced editing](https://x.com/atulkumarzz/status/2083203783388193157)
+  - [China shipped 97% of humanoid robots, totally ~19,100 units vs. 5,100 in H1 2025](https://www.bloomberg.com/news/articles/2026-08-10/china-humanoid-makers-hold-97-of-global-shipments-report-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjM0MzQ5MiwiZXhwIjoxNzg2OTQ4MjkyLCJhcnRpY2xlSWQiOiJUSkpCVUhLR0NURk0wMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.5Gy19_jWtJKF5sap7B1NEnDmsyRifOWebvP7pJ6HU3A&leadSource=article-gifting)
+
+6\) Introducing:
+  - [Kitesurf](https://blog.cloudflare.com/kitesurf/): Cloudflare’s agent-first browser
+  - [Hop.Earth](https://x.com/DVLPLONDON/status/2084139787447857637): Drive anywhere with Street View
+
+7\) [AI is rewiring South Korea’s careers, dating, and culture](https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTk3NjcyOCwiZXhwIjoxNzg2NTgxNTI4LCJhcnRpY2xlSWQiOiJUSkJNT0dLR1pBS0wwMCIsImJjb25uZWN0SWQiOiJFRTIwRUNFMjg3Mzc0QjBGOTQzM0I1NkFCRkM5NzY5MiJ9.N97NkIVUwofPI8huJ8QZrSOsAhtzN4vV4xhlUszUgzA&leadSource=article-gifting).
+
+
 **8/3**
 
 1\) OpenAI:
