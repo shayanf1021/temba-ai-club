@@ -1,3 +1,56 @@
+**8/17**
+
+1\) OpenAI:
+  - [Codex at 15M users](https://x.com/thsottiaux/status/2087706104814023111)
+  - [Enterprise business now bigger than consumer business, OpenAI at $40M ARR](https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html)
+  - [GPT-5.6-Cyber](https://x.com/Eric_Wallace_/status/2086866306167656901)
+  - [ChatGPT: open and edit Google Workspace files inline](https://x.com/ChatGPT/status/2088044956091089281)
+  - [Computer History feature records everything on your desktop](https://thenewstack.io/openai-chatgpt-computer-history/)
+  - [‘Ultrafast’ GPT-5.6 Sol runs up to 14 times faster / 750 tps](https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/)
+
+2\) Anthropic:
+  - [Claude adds invisible watermarks](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+  - [Experiments in auto-maintenance of apps](https://x.com/bcherny/status/2088014489438621990)
+  - [Claude in Chrome now carry over to desktop, web, and mobile](https://x.com/claudeai/status/2087635262390026525)
+
+3\) [Ben Thompson: Nvidia’s Risky Business](https://stratechery.com/2026/nvidias-risky-business/).
+  - Thesis: Nvidia is taking on significant systemic risk by creating novel financing structures to keep the AI infrastructure boom going as traditional funding sources dry up.
+
+4\) Grok:
+  - [Introducing Grok 4.6](https://x.ai/news/grok-4-6)
+  - [Introducing Grok Bot](https://x.com/bot/status/2087224798078517251): AI teammates that do real work for you; nice example of agent-first UI.
+  - [First](https://x.com/brian_lovin/status/2087917528001794393) [impressions](https://x.com/kunchenguid/status/2087567139318477117)
+
+5\) #OpenModels:
+  - [NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard for open source agentic](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+  - [Closed model prices are dropping](https://x.com/chamath/status/2088163097785639109)
+  - [Qwen is #1 remixed model with 151k+ derivatives](https://huggingface.co/blog/state-of-open-models-summer-2026)
+  - [MiniMax-Music3: 5 min songs, multilingual vocals](https://x.com/minimax_ai/status/2087934657354678421?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [GLM-5.3 performed slightly better than Mythos 5 at finding software flaws](https://www.reuters.com/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-cyber-defence-tests-2026-08-14/)
+
+6\) Harnesses:
+  - [DeepSeek Harness](https://deepseek.com/harness/en/): Everything is a plugin.
+  - [Pi agent harness comes out on top](https://x.com/composio/status/2086814488162972027).
+
+7\) [Lovable at $13.3B valuation, apps getting 900M visits every month, ARR 4x in the last 12 months](https://x.com/antonosika/status/2087479638939652601?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+8\) [Stripe to buy OpenRouter for $7B+](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion).
+
+9\) [US mid-term elections](https://www.washingtonpost.com/technology/2026/08/14/ai-becomes-major-election-issue-first-time-data-shows/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg2NjgwMDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg4MDYyMzk5LCJpYXQiOjE3ODY2ODAwMDAsImp0aSI6Ijk2OTNkOTM2LTg0ODgtNGVjOS1iNTdmLTVhY2ZjNTg5NmFlYyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMDgvMTQvYWktYmVjb21lcy1tYWpvci1lbGVjdGlvbi1pc3N1ZS1maXJzdC10aW1lLWRhdGEtc2hvd3MvIn0.HwCWU70YJs-Ehcd0EjuIo042EWgf_bOlBZOXr7FILIg&itid=gfta): ~40% of races have policy positions about AI and datacenters.
+  - Related: [Bernie’s letter to Sam, Dario, and Zuck](https://x.com/AndrewCurran_/status/2086849354942595427)
+
+10\) [Labor Market](https://digitaleconomy.stanford.edu/news/canariesaug26/): An updated Stanford Digital Economy Lab study found that while generative AI has not triggered economy-wide displacement, the employment gap for young workers (ages 22–25) in AI-exposed roles has widened to 19% below peers due to reduced hiring in entry-level positions reliant on codified knowledge.
+
+11\) [How we use computers is about to change forever](https://creatoreconomy.so/p/how-we-use-computers-is-about-to-change-forever-ai).
+  - Voice will become the orchestration layer
+  - Personal computers will move to the cloud
+  - Products will be built for agents first
+  - Most software will become commoditized
+  - Trust will determine the winners and losers
+
+12\) [Ordinary Abundance](https://ordinaryabundance.com/).
+
+
 **8/10**
 
 1\) OpenAI:
