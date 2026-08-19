@@ -14,7 +14,7 @@ const CLUB_INFO = {
   tagline: "Business students exploring artificial intelligence together",
   // Default meeting time & room, shown in the header banner.
   meetingTime: "5:15–5:50 PM",
-  meetingRoom: "RRH 3.406",
+  meetingRoom: "RRH 5.402",
   meetingDay: "Every other Monday",
 };
 
@@ -73,7 +73,7 @@ const MEETINGS = [
     date: "2026-09-14",
     topic: "Guest Speaker: Prof. Ben Bentzin",
     time: "5:15–5:50 PM",
-    room: "RRH 3.406",
+    room: "RRH 5.402",
     description: "Join us for a talk with Prof. Ben Bentzin.",
     // Speaker bio. Shows as an expandable note on the next-meeting
     // card. Each string is its own paragraph.
@@ -91,7 +91,7 @@ const MEETINGS = [
     // TODO: swap in the real session title once it's set.
     topic: "Guest Speaker: Prof. Clint Tuttle",
     time: "5:15–5:50 PM",
-    room: "RRH 3.406",
+    room: "RRH 5.402",
     description: "Join us for a talk with Prof. Clint Tuttle.",
     speaker: "Clint Tuttle",
     bio: [
@@ -108,7 +108,7 @@ const MEETINGS = [
     date: "2026-10-12",
     topic: "Guest Speaker (TBA)",
     time: "5:15–5:50 PM",
-    room: "RRH 3.406",
+    room: "RRH 5.402",
     description: "Speaker to be announced — stay tuned.",
     resources: [],
   },
@@ -116,7 +116,7 @@ const MEETINGS = [
     date: "2026-10-26",
     topic: "Hackathon 👀",
     time: "5:15–5:50 PM",
-    room: "RRH 3.406",
+    room: "RRH 5.402",
     description: "No speaker this week — just time to build. Bring your projects.",
     resources: [],
   },
@@ -125,7 +125,7 @@ const MEETINGS = [
     date: "2026-11-09",
     topic: "Guest Speaker (TBA)",
     time: "5:15–5:50 PM",
-    room: "RRH 3.406",
+    room: "RRH 5.402",
     description: "Speaker to be announced — stay tuned.",
     resources: [],
   },
@@ -142,7 +142,7 @@ const MEETINGS = [
     date: "2026-11-30",
     topic: "Guest Speaker (TBA)",
     time: "5:15–5:50 PM",
-    room: "RRH 3.406",
+    room: "RRH 5.402",
     description: "Speaker to be announced — stay tuned.",
     resources: [],
   },
