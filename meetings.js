@@ -70,6 +70,16 @@ const MEETINGS = [
     resources: [],
   },
   {
+    date: "2026-08-20",
+    topic: "Academic Intensive Lunch & Learn",
+    time: "12:00–1:00 PM",
+    room: "TBD",
+    description: "Academic Intensive Lunch & Learn session.",
+    resources: [
+      { label: "Deck: Academic Intensive Lunch & Learn", url: "https://docs.google.com/presentation/d/1XyD06D6jCUbBTNpUE_RDsU3vuZT3zmiXaPbzAq9yrKM/edit?usp=sharing" }
+    ],
+  },
+  {
     date: "2026-09-14",
     topic: "Guest Speaker: Prof. Ben Bentzin",
     time: "5:15–5:50 PM",
