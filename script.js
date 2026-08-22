@@ -22,7 +22,7 @@
   const meetings = MEETINGS.map((m) => ({ ...m, dateObj: parseDate(m.date) }))
     .sort((a, b) => a.dateObj - b.dateObj);
 
-  const next = meetings.filter((m) => m.dateObj >= today && !m.cancelled)[0] || null;
+  const next = meetings.filter((m) => m.dateObj >= today && !m.cancelled && !m.skipNextBanner)[0] || null;
 
   // ---------- Hero ----------
   document.getElementById("hero-tagline").textContent = CLUB_INFO.tagline;

@@ -7,6 +7,9 @@
 // Resources are optional — leave the list empty [] if none yet.
 // Add `cancelled: true` for an off-week (shows as a break, and
 // the "Next Meeting" banner skips over it).
+// Add `skipNextBanner: true` for a side event (lunch & learns,
+// etc.) that should keep its slides in Meeting Resources but not
+// take over the "Next Meeting" banner.
 // ============================================================
 
 const CLUB_INFO = {
@@ -71,6 +74,7 @@ const MEETINGS = [
   },
   {
     date: "2026-08-20",
+    skipNextBanner: true,
     topic: "Academic Intensive Lunch & Learn (Class of 2027)",
     time: "12:00–1:00 PM",
     room: "TBD",
@@ -81,6 +85,7 @@ const MEETINGS = [
   },
   {
     date: "2026-08-24",
+    skipNextBanner: true,
     topic: "Academic Intensive Lunch & Learn (Class of 2028)",
     time: "12:00–1:00 PM",
     room: "TBD",
