@@ -71,12 +71,22 @@ const MEETINGS = [
   },
   {
     date: "2026-08-20",
-    topic: "Academic Intensive Lunch & Learn",
+    topic: "Academic Intensive Lunch & Learn (Class of 2027)",
     time: "12:00–1:00 PM",
     room: "TBD",
-    description: "Academic Intensive Lunch & Learn session.",
+    description: "Academic Intensive Lunch & Learn session for the Class of 2027.",
     resources: [
-      { label: "Deck: Academic Intensive Lunch & Learn", url: "https://docs.google.com/presentation/d/1XyD06D6jCUbBTNpUE_RDsU3vuZT3zmiXaPbzAq9yrKM/edit?usp=sharing" }
+      { label: "Deck: Academic Intensive Lunch & Learn (Class of 2027)", url: "https://docs.google.com/presentation/d/1XyD06D6jCUbBTNpUE_RDsU3vuZT3zmiXaPbzAq9yrKM/edit?usp=sharing" }
+    ],
+  },
+  {
+    date: "2026-08-24",
+    topic: "Academic Intensive Lunch & Learn (Class of 2028)",
+    time: "12:00–1:00 PM",
+    room: "TBD",
+    description: "Academic Intensive Lunch & Learn session for the Class of 2028.",
+    resources: [
+      { label: "Deck: Academic Intensive Lunch & Learn (Class of 2028)", url: "https://docs.google.com/presentation/d/1Rx236-D5udMh253goMYXt4BV-U_LQJEwcLPeQZKBAm0/edit?usp=sharing" }
     ],
   },
   {
