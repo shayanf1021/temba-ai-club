@@ -171,6 +171,18 @@ a { color: inherit; }
 .btn:hover { background: var(--ink); color: var(--paper); }
 .btn:hover .ext { color: var(--paper); }
 
+/* Two join buttons sit side by side, and drop to one per line
+   when there isn't room. */
+.btn-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.btn-row .btn { margin-top: 0; }
+
 .hero-mark { margin-bottom: 26px; }
 
 /* The PNG carries its own alpha — no plate behind it, or we'd be
