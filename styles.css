@@ -169,10 +169,17 @@ a { color: inherit; }
 }
 
 .btn:hover { background: var(--ink); color: var(--paper); }
-.btn:hover .ext { color: var(--paper); }
+.btn:hover .ext, .btn:hover .jump { color: var(--paper); }
 
-/* Two join buttons sit side by side, and drop to one per line
-   when there isn't room. */
+/* Same weight as .ext, but pointing down the page rather than off it. */
+.jump {
+  font-size: 0.78em;
+  margin-left: 0.34em;
+  color: var(--muted);
+}
+
+/* The join and contact buttons sit side by side, and drop to one
+   per line when there isn't room. */
 .btn-row {
   display: flex;
   flex-wrap: wrap;
@@ -182,6 +189,14 @@ a { color: inherit; }
 }
 
 .btn-row .btn { margin-top: 0; }
+
+/* A quieter second row — same shape, less weight than the two joins. */
+.btn-row--sub { margin-top: 12px; }
+
+.btn-soft {
+  border-color: var(--rule);
+  color: var(--ink-soft);
+}
 
 .hero-mark { margin-bottom: 26px; }
 
@@ -359,11 +374,14 @@ a { color: inherit; }
 }
 
 /* ---------- Calendar ---------- */
+/* Flex rather than grid: a wrapped last month centres itself instead of
+   sitting alone against the left edge. */
 .calendar {
   position: relative;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 44px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 44px 34px;
 }
 
 /* ---------- Day popover ---------- */
@@ -409,7 +427,7 @@ a { color: inherit; }
   margin-top: 4px;
 }
 
-.cal-month { max-width: 290px; margin: 0 auto; width: 100%; }
+.cal-month { flex: 1 1 200px; max-width: 290px; }
 
 .cal-month-name {
   font-family: var(--serif);
@@ -685,20 +703,94 @@ a { color: inherit; }
 
 .prose p + p { margin-top: 13px; }
 
-.contact {
+/* ---------- AI Leads ---------- */
+.leads {
+  scroll-margin-top: 92px;
+  max-width: 700px;
+  margin: 44px auto 0;
+  padding-top: 34px;
+  border-top: 1px solid var(--rule);
+}
+
+.leads-part + .leads-part {
+  margin-top: 30px;
+  padding-top: 32px;
+  border-top: 1px solid var(--rule);
+}
+
+.leads-intro {
+  text-align: center;
+  font-family: var(--serif);
+  font-size: 1.02rem;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  max-width: 46ch;
+  margin: 0 auto;
+}
+
+.leads-intro + .lead-group { margin-top: 20px; }
+
+.leads-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 34px;
+  margin-top: 20px;
+}
+
+.lead-program {
+  text-align: center;
   font-family: var(--sans);
-  font-size: 0.92rem;
-  margin-top: 24px;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
 }
 
-.contact a {
-  text-decoration: underline;
-  text-decoration-color: var(--rule);
-  text-underline-offset: 3px;
-  transition: color 0.15s, text-decoration-color 0.15s;
+.lead-list {
+  list-style: none;
 }
 
-.contact a:hover { color: var(--accent); text-decoration-color: var(--accent); }
+/* TEMBA sits across the full width — one rule under the label, names abreast. */
+.lead-list--row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 34px;
+}
+
+.lead-list li {
+  text-align: center;
+  padding: 13px 2px;
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+/* The part separator closes the TEMBA block — a segmented rule above it reads as noise. */
+.lead-list--row li { border-bottom: none; padding-bottom: 0; }
+
+/* Name links to LinkedIn, email opens mail — two targets, one row. */
+.lead-name {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.98rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+a.lead-name:hover { color: var(--accent); }
+
+.lead-email {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 2px;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.lead-email:hover { color: var(--accent); }
 
 /* ---------- Footer ---------- */
 .footer {
@@ -716,7 +808,11 @@ a { color: inherit; }
 
 /* ---------- Responsive ---------- */
 @media (max-width: 820px) {
-  .calendar { grid-template-columns: repeat(2, 1fr); gap: 34px; }
+  .calendar { gap: 38px 34px; }
+
+  /* Slightly tighter day circles keep all three months on one row here —
+     a month can't shrink below 7 × the circle width. */
+  .cal-day { width: 27px; height: 27px; }
 }
 
 @media (max-width: 680px) {
@@ -745,7 +841,14 @@ a { color: inherit; }
     border-top: 1px solid var(--rule);
   }
 
-  .calendar { grid-template-columns: 1fr; gap: 30px; }
+  .calendar { gap: 30px; }
+  .cal-month { flex-basis: 100%; }
+  .leads-grid { grid-template-columns: 1fr; gap: 26px; }
+
+  /* Stacked, the TEMBA names need the same rhythm as the other columns. */
+  .lead-list--row { grid-template-columns: 1fr; }
+  .lead-list--row li { border-bottom: 1px solid var(--rule-soft); padding-bottom: 13px; }
+  .lead-list--row li:last-child { border-bottom: none; padding-bottom: 0; }
   .section { padding-top: 62px; }
   .section-head h2 { font-size: 1.75rem; }
 
