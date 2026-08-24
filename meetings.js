@@ -45,6 +45,7 @@ const MEETINGS = [
     description: "Spring meeting of the TEMBA AI Club.",
     resources: [
       { label: "Deck: TEMBA AI Club 4/20", url: "https://docs.google.com/presentation/d/1BRdYDh_QJz_24zAozqP7cs0HubREPVS7W83viKupkQY/edit?usp=sharing" },
+      { label: "Deck: Working at an AI Startup", url: "https://docs.google.com/presentation/d/1_7y-lo_kYuzL4k9QVvmu1XxweBrv8MC52VxyQWPgYmg/edit?usp=sharing" },
     ],
   },
   {
