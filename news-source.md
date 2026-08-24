@@ -1,3 +1,52 @@
+**8/24**
+
+1\) OpenAI:
+  - [ChatGPT for Teens](https://openai.com/index/chatgpt-for-teens/)
+  - [GPT-Image-2 API adds native transparent PNG background generation](https://x.com/openaidevs/status/2090536933571330440?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [GPT-5.6 Sol prices drop 20%](https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/)
+  - [RL training pause](https://x.com/sama/status/2089785307315200028)
+  - [ChatGPT x iMessage](https://x.com/ChatGPT/status/2090499359641329950)
+  - [Secures 8 gigawatts in Ohio for 6-year build out](https://openai.com/index/openai-joins-ports-pike-project/)
+  - [Expanding ads to 31 EMEA markets](https://www.adweek.com/media/openai-is-taking-its-ad-business-to-31-new-european-markets/)
+
+2\) Anthropic:
+  - [/design](https://x.com/nateparrott/status/2089470636796059754)
+
+3\) McCombs:
+  - [Research: Why Some Junior Employees Work Well with AI—and Others Don’t](https://hbr.org/2026/07/research-why-some-junior-employees-work-well-with-ai-and-others-dont)
+
+4\) [Instinct use cases](https://x.com/pitdesi/status/2090579987778937159); [Grok Bot use cases](https://x.com/startupstella/status/2090450591688360033?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+5\) [Code commits scaling at Github](https://x.com/ai_for_success/status/2090620909598151055?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+6\) Introducing:
+  - [Meta Pocket](https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/) - an app that lets you vibe-code and share games
+  - [Meta AI Mac app](https://www.theverge.com/tech/982270/meta-ai-mac-app)
+  - [Berd](https://berd.xyz/) - less chatting, more doing from @jack
+  - [Slack Code](https://x.com/benioff/status/2090240159115853956?s=12&t=ztI5pSawHTJNtVA16s1KPw) - don’t code alone
+  - Harvey [redesign](https://www.harvey.ai/blog/introducing-harvey-ii) and [custom legal model](https://x.com/harvey/status/2090454750059958440?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Humanoids setting 100m records](https://x.com/ehuanglu/status/2091213372717179143?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+7\) [First AI-assisted personalized mRNA cancer treatment has succeeded in a Phase 3 trial](https://x.com/kimmonismus/status/2090082088087150979).
+
+8\) [Apple Music to show “Made with AI” labels later this year](https://www.billboard.com/pro/apple-music-to-label-ai-generated-music/).
+
+9\) [Lessons from Khanmigo so far](https://www.nber.org/system/files/working_papers/w35620/w35620.pdf): on-demand, student-initiated AI tutors get low usage.
+
+10\) [Wispr hits $2B valuation](https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/).
+
+11\) [Negative data center sentiment](https://x.com/robinsonmeyer/status/2090457322506141760?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+12\) [The goal of a reference check is to discover why you might be making the wrong hiring decision while you can still change it](https://x.com/dittycheria/status/2090414261545640095?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+13\) [Nice weather costs money](https://x.com/us_stormwatch/status/2090652813781254174?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+14\) [Open-source AI token share on Vercel surged from 28% to 62% over two months](https://x.com/gavinsbaker/status/2091542026072338623?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+15\) [YourHuman.ai](http://yourhuman.ai/) - A way for AI agents to hire licensed human lawyers via API or MCP.
+
+16\) [Physically shift between models](https://x.com/aaraalto/status/2089916444960063577).
+
 **8/17**
 
 1\) OpenAI:
