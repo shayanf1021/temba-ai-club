@@ -705,9 +705,8 @@ a { color: inherit; }
 
 /* ---------- AI Leads ---------- */
 .leads {
-  scroll-margin-top: 92px;
   max-width: 700px;
-  margin: 44px auto 0;
+  margin: 36px auto 0;
   padding-top: 34px;
   border-top: 1px solid var(--rule);
 }
@@ -853,7 +852,7 @@ a.lead-name:hover { color: var(--accent); }
   .section-head h2 { font-size: 1.75rem; }
 
   .masthead-inner { gap: 14px; }
-  .nav { gap: 15px; }
+  .nav { gap: 12px; }
   .nav a { font-size: 0.78rem; }
   .nav .ext { display: none; }
   .wordmark span { display: none; }
