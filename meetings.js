@@ -149,10 +149,11 @@ const MEETINGS = [
   {
     // Internal note: Scott Wallace's boss?
     date: "2026-11-09",
-    topic: "Guest Speaker (TBA)",
+    topic: "External Speaker: Dabeer Masood (Stripe)",
     time: "5:15–5:50 PM",
     room: "RRH 5.402",
-    description: "Speaker to be announced — stay tuned.",
+    description: "Join us for a talk with Dabeer Masood of Stripe.",
+    speaker: "Dabeer Masood",
     resources: [],
   },
   {
