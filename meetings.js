@@ -132,10 +132,10 @@ const MEETINGS = [
   {
     // Internal note: Dabeer from Stripe?
     date: "2026-10-12",
-    topic: "Guest Speaker (TBA)",
+    topic: "AI Safari",
     time: "5:15–5:50 PM",
     room: "RRH 5.402",
-    description: "Speaker to be announced — stay tuned.",
+    description: "AI Safari — details to come.",
     resources: [],
   },
   {
