@@ -1,3 +1,49 @@
+**8/31**
+
+1\) OpenAI:
+  - [Cyber call for collective action](https://openai.com/collective-cyberdefense/)
+  - [OpenAI terminates Cursor's model access](https://x.com/openai/status/2093515564786540695?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [OpenAI's first chip, Jalapeño, delivers faster times and higher power efficiency](https://openai.com/index/jalapeno-first-results/)
+  - [Connect multiple Google Workspace accounts to ChatGPT](https://x.com/gabrielchua/status/2093228185823687134)
+  - [Codex and ChatGPT Work at 25M active users](https://x.com/thsottiaux/status/2094252447271366730?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
+
+2\) Anthropic:
+  - [Claude adds its own built-in browser](https://x.com/claudeai/status/2092755571455758427?s=46&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Shared memory across Chat and Cowork](https://x.com/TechCrunch/status/2092309809114575181)
+  - [Manage MCP connectors for your enterprise](https://x.com/ClaudeDevs/status/2091953609185657251)
+  - [Judge blocks Pentagon blacklist of Anthropic as supply chain risk](https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html)
+
+3\) [Business Schools pivoting to train Chief AI Officers](https://www.bloomberg.com/news/articles/2026-08-21/how-executives-are-training-to-become-chief-ai-officers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzI5MjUxMSwiZXhwIjoxNzg3ODk3MzExLCJhcnRpY2xlSWQiOiJUSzNWQzFOM04wOVYwMCIsImJjb25uZWN0SWQiOiIwQUFENjIyQkZCODY0MjkwOTk5RkVENzQyNUJDMTI3QiJ9.79558osrv_Mt9BbDtek10VvklRGpC-I83jF2b7hzLKc&leadSource=article-gifting).
+
+4\) Personal agents:
+  - Themes: Cloud-based (not local); single, long-running message thread; built-in computers and browsers with login details; great memory
+  - [Instinct raises $250M at $2.5B valuation](https://x.com/noahrshinn/status/2092691344456351744?s=12&t=ztI5pSawHTJNtVA16s1KPw), [integrates Stripe](https://x.com/noahrshinn/status/2093368510449877180), [books movie tickets for you at 3:09 am](https://x.com/kushalbyatnal/status/2093447342921830702?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [A deep dive into Grok Bot](https://flaviocopes.com/grok-bot/)
+  - [Meta's Hatch agent is "within weeks"](https://x.com/rohanpaul_ai/status/2092027870373908713)
+
+5\) [Ethan Mollick](https://www.oneusefulthing.org/p/agency-and-agents?utm_source=post-email-title&publication_id=1180644&post_id=213455970&utm_campaign=email-post-title&isFreemail=true&r=um49&triedRedirect=true&utm_medium=email): four situations where AI agents should seek human involvement
+  - Approval: Agents shouldn't independently spend money, contact outside individuals, access sensitive data, or take unauthorized actions without human verification and oversight
+  - Expertise: AI capabilities remain uneven ("jagged"), requiring direct human input when specialized knowledge, complex judgment, or nuanced domain work is needed
+  - Variance (Diversity of Thought): AI models often produce repetitive sentence patterns, concepts, and homogeneous ideas; involving humans injects diverse perspectives, creative variety, and distinct approaches
+  - Interesting Decisions: Automating only the routine parts of work ensures humans retain engaging, judgment-building tasks, preventing workers from being left solely with tedious error management and avoiding a deficit in future expertise
+
+6\) Open models:
+  - [Alibaba releases Qwen3.8-Flash, cutting training costs 89%](https://www.bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model)
+  - [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash): efficient multimodal model for fast, budget-friendly coding
+  - [Nvidia's new Groq-powered LPX systems reach 3,400 tokens per second on Gemma 4](https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-tell-us-about-its-20b-gamble/5291880)
+
+7\) [MiniMax H3 Max generates AI video faster than playback to power real-time Twitch streams](https://x.com/rehan_shei/status/2093528415576211819?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+  - The first tangible evidence of interactive entertainment
+
+8\) [Introducing Keenable](https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/): indexing the web for agents.
+
+9\) [Bill Gates on AI](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make): "In terms of equity, AI will either be the greatest equalizer ever invented, or the worst source of injustice."
+
+10\) [Gavin Baker argues AI data centers drive US reindustrialization](https://x.com/GavinSBaker/status/2094081116164460995).
+
+11\) [Jevons paradox for video](https://x.com/deedydas/status/2093743873935950264): making animated short dramas is 10x cheaper and 450x faster with AI, and it's led to >12x more creation and 10x more views on China's TikTok.
+
 **8/24**
 
 1\) OpenAI:
