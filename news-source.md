@@ -1,3 +1,67 @@
+**9/7**
+
+1\) OpenAI:
+  - Introducing [GPT6-Astra](https://openai.com/index/gpt-6-astra/)
+  - Astra use cases from the community: highly visual (3D, Blender) and physical objects
+    - [3D animated pianist with synchronized motion](https://x.com/LexnLin/status/2096166277849239804)
+    - [Large-scale 3D forest simulation](https://x.com/LexnLin/status/2096263046918197609)
+    - [3D V8 engine](https://x.com/dilumsanjaya/status/2096280244663775423?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [9 cool prompts](https://x.com/gregisenberg/status/2095854071580156338?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Printable Lego sets](https://x.com/emmanuel_2m/status/2096377028945576370?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Make this photo interactive](https://x.com/rohancalum/status/2097009625627500814)
+    - [Michael Jackson in Google Calendar](https://x.com/polymarket/status/2096940088378716387?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Tangled hair in the shower drain and 3D printer](https://x.com/danielgri/status/2096852983468216790?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Insane model of human cell](https://x.com/andrewaiginin/status/2096565175516353007?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Use Ableton Live and make an absolute banger](https://x.com/timourxyz/status/2096374630525309206?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Seoul in 3D](https://x.com/synabreu/status/2096557555086725159?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Recreate the OG Anunoby tip in from NBA Finals Game 4](https://x.com/flynnjamm/status/2096663293901578438?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Open Paint, draw you](https://x.com/the_alex/status/2096294580006354985?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Understanding ankle pain](https://x.com/emanuel_andre7/status/2096528986390085696?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Track tennis balls](https://x.com/LearnOpenCV/status/2096877590204272825?utm_source=gemini)
+    - [Decoding a spectrogram](https://x.com/maxxrubin_/status/2096892510241268094?utm_source=gemini)
+    - [Palace of Fine Arts in Blender](https://x.com/sharifshameem/status/2095653641164329143?utm_source=gemini)
+  - [An Alien Mind](https://openai.com/index/an-alien-mind/): the alignment "window" is actively closing
+  - [OpenAI has built a research intern](https://openai.com/index/research-acceleration-view-inside-openai/)
+  - [How to share misalignment incidents](https://x.com/openai/status/2096133504417616165)
+  - [EU designates ChatGPT as a Very Large Online Search Engine](https://x.com/eu_commission/status/2094379702546784496)
+  - [ChatGPT Ads reaches $1 billion in ARR, global expansion continues](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/)
+
+2\) Anthropic:
+  - Introducing [Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+  - [Fable 5.1 generates 3D house designs and cinematic video walkthroughs directly through code](https://x.com/alexalbert__/status/2094860187743986169)
+
+3\) Meta:
+  - Introducing [Muse Spark 1.3 for coding and agentic tasks](https://x.com/finkd/status/2095232032896946311)
+  - Introducing [Muse Voice Transcribe for real-time speech-to-text](https://x.com/finkd/status/2094836602681938385)
+  - [Muse agent from Meta is a messaging app](https://x.com/testingcatalog/status/2096753152926122300?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+4\) Instinct: [Adds location sharing](https://x.com/noahrshinn/status/2096307855372734963?s=12&t=ztI5pSawHTJNtVA16s1KPw), [finding Jumbotron footage](https://x.com/oliviaalevine/status/2095705075633000815), [overwhelming Resy with reservation pings](https://x.com/jbahrdestefano/status/2096676801204404604?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+5\) [Wispr + Claude Cowork workflow for rambles into structured data and action items](https://x.com/rowancheung/status/2095538308436914307).
+
+6\) [Computer science student enrollments decline sharply](https://x.com/jburnmurdoch/status/2095484967409029334).
+
+7\) [Nvidia acquires Hugging Face for $13 billion](https://x.com/jensenhuang/status/2095482647355244762?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+8\) [LA](https://www.latimes.com/california/story/2026-09-02/lausd-student-ai-ban-policy) and [NYC](https://x.com/ABC7NY/status/2095176814666620942) public schools bar student generative AI.
+
+9\) [Vibe manufacturing](https://x.com/gregisenberg/status/2096311243652952229).
+
+10\) [Guide AI to better designs](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world).
+
+11\) [Fal launches fal.live for real-time continuous video generation faster than playback speed](https://x.com/emollick/status/2094801560291213733).
+  - This will require new approaches to real-time safety checks
+
+12\) World models:
+  - [World Labs introduces Atlas](https://x.com/theworldlabs/status/2094839756329041984): Model the world, move the camera, and simulate space and time
+  - [Runway unveils Solaris, real-time interactive user interfaces without code](https://x.com/agermanidis/status/2094466649399451768?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+13\) [Reframe Systems raises $40M to scale its robotic microfactory for homebuilding](https://www.businesswire.com/news/home/20260831532459/en/). #Robots
+
+14\) [AI job boom?](https://x.com/rdomenechv/status/2096668662627221705?utm_source=gemini)
+
+15\) ["The Whale" marine museum in Norway](https://x.com/Rainmaker1973/status/2095184351151489258).
+
 **8/31**
 
 1\) OpenAI:

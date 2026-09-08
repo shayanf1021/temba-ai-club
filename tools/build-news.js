@@ -28,12 +28,19 @@ const weeks = [];
 let week = null;
 let item = null;
 
+function renderBullets(bullets) {
+  if (!bullets.length) return "";
+  return (
+    "<ul>" +
+    bullets.map((b) => "<li>" + b.text + renderBullets(b.children) + "</li>").join("") +
+    "</ul>"
+  );
+}
+
 function flushItem() {
   if (!week || !item) return;
   let html = '<div class="nw-item"><span class="nw-num">' + item.num + ")</span><div class=\"nw-body\">" + item.text;
-  if (item.bullets.length) {
-    html += "<ul>" + item.bullets.map((b) => "<li>" + b + "</li>").join("") + "</ul>";
-  }
+  html += renderBullets(item.bullets);
   html += "</div></div>";
   week.itemsHtml.push(html);
   item = null;
@@ -62,10 +69,17 @@ for (const rawLine of src.split(/\r?\n/)) {
     continue;
   }
 
-  const bulletMatch = line.match(/^\s+-\s+(.*)$/);
+  // Bullets nest by indent: "  - " is top level, deeper indents hang off
+  // the bullet above them (Docs exports the second level at 3+ spaces).
+  const bulletMatch = line.match(/^(\s+)-\s+(.*)$/);
   if (bulletMatch && item) {
-    const b = inline(bulletMatch[1]);
-    if (b) item.bullets.push(b);
+    const b = inline(bulletMatch[2]);
+    if (b) {
+      const nested = bulletMatch[1].length >= 3;
+      const parent = item.bullets[item.bullets.length - 1];
+      if (nested && parent) parent.children.push({ text: b, children: [] });
+      else item.bullets.push({ text: b, children: [] });
+    }
     continue;
   }
 
