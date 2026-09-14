@@ -1,3 +1,51 @@
+**9/14**
+
+1\) OpenAI:
+  - [No IPO this year](https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/)
+  - [Introducing ChatGPT for Financial Services in ChatGPT Work](https://x.com/OpenAI/status/2098118191029624911)
+  - [5 million ChatGPT Sites](https://x.com/chatgpt/status/2098457920291946894?s=12&t=ztI5pSawHTJNtVA16s1KPw), [gallery of best ones](https://awesomesites.ai/)
+  - [Pauses $200 Pro plan signups in wake of Astra](https://x.com/thsottiaux/status/2098113585683808624?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Small business plugins](https://x.com/openai/status/2097523484629090408?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Astra + robot + paint brush](https://x.com/cdngdev/status/2097339677128982873?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+2\) Anthropic:
+  - [We must pace the frontier](https://darioamodei.com/post/we-must-pace-the-frontier) ([Coxon resigns](https://x.com/hilbertspaess/status/2097476196791709843?s=12&t=ztI5pSawHTJNtVA16s1KPw), [>10% within the next decade](https://x.com/evanhub/status/2097497037956891126))
+  - [Economic future simulator](https://www.anthropic.com/institute/econ-scenarios)
+  - [An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents)
+
+3\) Meta: [Introduces Muse](https://ai.meta.com/muse/)
+  - Muse [security](https://x.com/dps/status/2097404100686336193)
+  - Use cases:
+    - [Money challenge: can your Muse make you $1000?](https://x.com/alexandr_wang/status/2098955288204415317) ([uses Stripe Link](https://x.com/alexandr_wang/status/2097410373221773355?s=12&t=ztI5pSawHTJNtVA16s1KPw))
+    - [Agentic payment protection from Meta](https://x.com/alexandr_wang/status/2097410374165516668?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Negotiate a discount with Verizon](https://x.com/kushalbyatnal/status/2098447141148528647?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Get Reels suggestions](https://x.com/mattdeitke/status/2099302455460893054?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Cross-selling on Facebook has begun](https://x.com/eric_seufert/status/2098873633309336064?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Goals show you what your Muse is doing](https://x.com/hamburger/status/2098457770567799137?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Long list of things someone likes](https://x.com/thatguybg/status/2097466072601362741?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - Critiques on [sensitive data](https://x.com/jvrsanch/status/2098752932367765547), [a new class of notification generating apps](https://x.com/signulll/status/2098085289960906793)
+
+4\) Instinct use cases:
+  - [Instinct-to-instinct messages](https://x.com/noahrshinn/status/2097794967574028448?s=12&t=ztI5pSawHTJNtVA16s1KPw) (attempt at network effects)
+  - [Upgraded to a lie-flat business seat with AMEX points and created a Flying Blue account](https://x.com/andruyeung/status/2099211858896945177?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Search every state's unclaimed property database for money owed to me](https://x.com/mvanhorn/status/2097502118789984688?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Authenticator support](https://x.com/noahrshinn/status/2098466184912089143?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Its own email address](https://x.com/noahrshinn/status/2097443132816396649?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+5\) Terence Tao and 25 mathematicians: [A Severe Misalignment](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
+
+6\) [UMG and ElevenLabs announce a new licensed AI music creation platform](https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/).
+
+7\) Video:
+  - [Jeffrey Katzenberg teams up with Former Sora Lead for a new AI video startup](https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup)
+  - [Runway now at $200M ARR and 60M creators](https://x.com/agermanidis/status/2097331623540982182?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+8\) [Real-time poker coach with GPT-Live-1](https://x.com/liu8in/status/2098147243908047246).
+
+9\) [California enacts youth laws on chatbots and social media features](https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/), also [AI safeguards](https://www.gov.ca.gov/2026/09/09/governor-newsom-signs-first-in-the-nation-ai-safeguards-to-protect-californians-calls-on-the-federal-government-to-do-its-part/).
+
+10\) [A new meaning for (keyboard) auto-complete](https://x.com/timeroot/status/2097484942435393967?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
 **9/7**
 
 1\) OpenAI:
