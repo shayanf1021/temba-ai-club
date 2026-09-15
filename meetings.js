@@ -167,10 +167,10 @@ const MEETINGS = [
   },
   {
     date: "2026-11-30",
-    topic: "Guest Speaker (TBA)",
+    topic: "End of Semester Demo Hour",
     time: "5:15–5:50 PM",
     room: "RRH 5.402",
-    description: "Speaker to be announced — stay tuned.",
+    description: "Close out the semester — come show what you built.",
     resources: [],
   },
 ];
