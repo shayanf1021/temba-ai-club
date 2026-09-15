@@ -130,7 +130,6 @@ const MEETINGS = [
     resources: [],
   },
   {
-    // Internal note: Dabeer from Stripe?
     date: "2026-10-12",
     topic: "AI Club Networking Session",
     time: "5:15–5:50 PM",
