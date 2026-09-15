@@ -110,7 +110,9 @@ const MEETINGS = [
       "Bentzin has been appointed by the president of The University of Texas to be a faculty board member of the University Co-op nonprofit and is the immediate past president of the board of trustees of the Austin Symphony Orchestra. His past volunteer leadership includes chairman of the board for the Long Center for the Performing Arts, board president of the Travis County Center for Child Protection, campaign chairman for the United Way of the Capital Area, committee chair for Boy Scout Troop 990, and board positions with Ballet Austin and Austin public radio stations KUT/KUTX.",
       "He holds an MBA in marketing and strategic management from the Wharton School at the University of Pennsylvania and a B.S. in finance from Arizona State University.",
     ],
-    resources: [],
+    resources: [
+      { label: "Deck: Getting Started with Claude Code", url: "https://tinyurl.com/2wkuzbek" },
+    ],
   },
   {
     date: "2026-09-28",
