@@ -141,10 +141,17 @@ const MEETINGS = [
   },
   {
     date: "2026-10-26",
-    topic: "Guest Speaker (TBA)",
+    topic: "Guest Speaker: Prof. Miha Vindis",
     time: "5:15–5:50 PM",
     room: "RRH 5.402",
-    description: "Speaker to be announced — stay tuned.",
+    description: "Join us for a talk with Prof. Miha Vindis.",
+    speaker: "Miha Vindis",
+    bio: [
+      "Miha Vindis is an Assistant Professor of Instruction at the Lyndon B. Johnson School of Public Affairs. His work focuses on the practical application of artificial intelligence in public, nonprofit, and civic organizations, with particular attention to leadership, governance, organizational implementation, workforce readiness, and public trust. At the LBJ School, Dr. Vindis is helping develop the Applied AI and Public Leadership Lab, an initiative designed to help students and public leaders understand, govern, and use AI responsibly.",
+      "Dr. Vindis brings experience across higher education, public leadership development, consulting, and the private sector. He currently serves as Director of the Texas Certified Public Manager Program at Texas State University, where he works with public managers and local government leaders across Texas. He has also taught at the LBJ School in the Executive Master in Public Leadership program and continues to teach at the McCombs School of Business, where his courses have included management and entrepreneurship.",
+      "Earlier in his career, Dr. Vindis worked in strategy, finance, and supply chain optimization roles at Royal Dutch Shell and Deloitte & Touche. His professional background also includes work with nonprofit organizations and social entrepreneurship. Across these roles, his work has focused on helping leaders navigate complex organizational change, develop practical strategies, and prepare for emerging challenges.",
+      "Dr. Vindis earned his Ph.D. in Public Policy and M.A. in Global Policy Studies from the LBJ School. His broader work examines how emerging technologies affect public institutions, leadership, civic trust, and decision-making. He regularly speaks and consults on AI in the public sector, AI in education, strategic leadership, and the changing role of public leaders in technology-enabled organizations.",
+    ],
     resources: [],
   },
   {
