@@ -112,6 +112,7 @@ const MEETINGS = [
     ],
     resources: [
       { label: "Deck: Getting Started with Claude Code", url: "https://tinyurl.com/2wkuzbek" },
+      { label: "Recording: Getting Started with Claude Code", url: "https://utexas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0aa87cd3-dbf9-4bcd-8b90-b4c5017d73c0" },
     ],
   },
   {
