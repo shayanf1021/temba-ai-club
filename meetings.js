@@ -162,6 +162,9 @@ const MEETINGS = [
     room: "RRH 5.402",
     description: "Join us for a talk with Dabeer Masood of Stripe.",
     speaker: "Dabeer Masood",
+    bio: [
+      "Dabeer Masood is a Software Engineer and Tech Lead at Stripe, where he leads platforms and teams focused on financial technology and artificial intelligence. His work spans financial reporting and analytics, agentic systems, and deterministic AI engines designed to bring reliability and control to AI-driven workflows. He focuses on translating advances in AI into practical applications that generate measurable monetary value for businesses.",
+    ],
     resources: [],
   },
   {
