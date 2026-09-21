@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Free AI Trainings · TEMBA AI Club</title>
+  <meta name="description" content="Free, self-paced AI courses for business students, sorted by role and industry. Curated by the Texas McCombs Evening MBA AI Club." />
+  <meta property="og:title" content="Free AI Trainings · TEMBA AI Club" />
+  <meta property="og:description" content="Free, self-paced AI courses for business students, sorted by role and industry." />
+  <meta property="og:image" content="https://temba-ai.vercel.app/logo.png" />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="trainings.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <a class="wordmark" href="index.html#top">
+        <img src="logo_transparent_v3.png" alt="" onerror="this.style.display='none'" />
+        <span>TEMBA AI Club</span>
+      </a>
+      <nav class="nav">
+        <a href="index.html#schedule">Schedule</a>
+        <a href="index.html#news">News</a>
+        <a href="index.html#resources">Resources</a>
+        <a href="trainings.html" aria-current="page">Trainings</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="section wrap tr-top">
+      <div class="section-head">
+        <p class="eyebrow">Free · Self-paced · Vetted</p>
+        <h2>AI Trainings</h2>
+      </div>
+      <p class="section-note">Every course here is fully free: no trial and no credit card. Pick your role or industry to see what fits you.</p>
+
+      <div class="tr-picker">
+        <p class="tr-label" id="role-label">I work in…</p>
+        <div class="tr-chips" id="role-chips" role="group" aria-labelledby="role-label"></div>
+        <p class="tr-label" id="industry-label">…or my industry is</p>
+        <div class="tr-chips" id="industry-chips" role="group" aria-labelledby="industry-label"></div>
+      </div>
+
+      <div class="tr-filters">
+        <label class="tr-search">
+          <span class="visually-hidden">Search courses</span>
+          <input type="search" id="tr-q" placeholder="Search, e.g. Excel, prompting, agents" autocomplete="off" />
+        </label>
+        <label>
+          <span class="visually-hidden">Task</span>
+          <select id="tr-task"><option value="">Any task</option></select>
+        </label>
+        <label>
+          <span class="visually-hidden">Level</span>
+          <select id="tr-level">
+            <option value="">Any level</option>
+            <option value="beginner">Beginner</option>
+            <option value="intermediate">Intermediate</option>
+            <option value="advanced">Advanced</option>
+          </select>
+        </label>
+        <label>
+          <span class="visually-hidden">Time</span>
+          <select id="tr-time">
+            <option value="">Any length</option>
+            <option value="short">Under 1 hour</option>
+            <option value="medium">1–5 hours</option>
+            <option value="long">5+ hours</option>
+          </select>
+        </label>
+      </div>
+
+      <p class="tr-status" id="tr-status" aria-live="polite">Loading courses…</p>
+      <div id="tr-results"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <span>TEMBA AI Club · Founded by the Class of 2027</span>
+      <span class="footer-year">© <span id="footer-year"></span></span>
+    </div>
+  </footer>
+
+  <script src="trainings.js"></script>
+</body>
+</html>
