@@ -1,0 +1,172 @@
+/* ============================================================
+   TEMBA AI Club — Trainings page
+   Builds on styles.css tokens; nothing here overrides the main page.
+   ============================================================ */
+
+.tr-top { padding-bottom: 84px; }
+
+.visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ---------- Role / industry picker ---------- */
+.tr-picker { text-align: center; }
+
+.tr-label {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-style: italic;
+  color: var(--ink-soft);
+  margin: 22px 0 12px;
+}
+
+.tr-chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.tr-chip {
+  font: 500 0.84rem var(--sans);
+  color: var(--ink-soft);
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.tr-chip:hover { border-color: var(--ink); color: var(--ink); }
+
+.tr-chip[aria-pressed="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--paper);
+}
+
+.tr-chip:focus-visible,
+.tr-filters input:focus-visible,
+.tr-filters select:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ---------- Filters ---------- */
+.tr-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 38px 0 10px;
+  padding-top: 22px;
+  border-top: 1px solid var(--rule);
+}
+
+.tr-filters label { flex: 1 1 150px; }
+.tr-filters .tr-search { flex: 3 1 260px; }
+
+.tr-filters input,
+.tr-filters select {
+  width: 100%;
+  font: 0.88rem var(--sans);
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+
+.tr-status {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin: 16px 0 0;
+  min-height: 1.4em;
+}
+
+.tr-status.is-error { color: var(--accent-dim); }
+
+/* ---------- Results ---------- */
+.tr-group { margin-top: 34px; }
+
+.tr-group-head {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink);
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--ink);
+}
+
+.tr-group-note {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 8px;
+}
+
+.tr-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 32px;
+}
+
+.tr-card {
+  padding: 20px 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.tr-card h3 {
+  font-family: var(--serif);
+  font-size: 1.22rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+.tr-card h3 a { text-decoration: none; }
+.tr-card h3 a:hover { color: var(--accent); }
+
+.tr-meta {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-top: 5px;
+}
+
+.tr-desc {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  margin-top: 8px;
+}
+
+.tr-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.tr-tags span {
+  font-size: 0.7rem;
+  color: var(--ink-soft);
+  background: var(--paper-2);
+  border-radius: 4px;
+  padding: 2px 7px;
+}
+
+.tr-free {
+  font-size: 0.75rem;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 8px;
+}
+
+@media (max-width: 680px) {
+  .tr-grid { grid-template-columns: 1fr; }
+  .tr-top { padding-bottom: 56px; }
+  .tr-label { font-size: 1.05rem; }
+}
