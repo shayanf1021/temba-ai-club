@@ -5,8 +5,6 @@
 
 .tr-top { padding-bottom: 84px; }
 
-.nav a[aria-current="page"] { color: var(--accent); }
-
 .visually-hidden {
   position: absolute;
   width: 1px; height: 1px;
