@@ -70,7 +70,6 @@
       tasks: splitList(r.tasks),
       level: r.level,
       hours: isNaN(hours) ? null : hours,
-      freeEvidence: r.free_evidence,
       dateAdded: r.date_added,
     };
   }
@@ -200,12 +199,6 @@
 
     el.append(h, meta, desc);
     if (tags.childNodes.length) el.appendChild(tags);
-    if (c.freeEvidence) {
-      const free = document.createElement("p");
-      free.className = "tr-free";
-      free.textContent = "Why it's free: " + c.freeEvidence;
-      el.appendChild(free);
-    }
     return el;
   }
 

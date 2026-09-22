@@ -158,13 +158,6 @@
   padding: 2px 7px;
 }
 
-.tr-free {
-  font-size: 0.75rem;
-  color: var(--muted);
-  font-style: italic;
-  margin-top: 8px;
-}
-
 @media (max-width: 680px) {
   .tr-grid { grid-template-columns: 1fr; }
   .tr-top { padding-bottom: 56px; }
