@@ -170,3 +170,5 @@
   .tr-top { padding-bottom: 56px; }
   .tr-label { font-size: 1.05rem; }
 }
+
+.nav a[aria-current="page"] { color: var(--accent); }
