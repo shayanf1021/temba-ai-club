@@ -27,6 +27,7 @@ function inline(text) {
 const weeks = [];
 let week = null;
 let item = null;
+let open = [];   // enclosing bullets, outermost first, for indent nesting
 
 function renderBullets(bullets) {
   if (!bullets.length) return "";
@@ -66,19 +67,23 @@ for (const rawLine of src.split(/\r?\n/)) {
   if (itemMatch) {
     flushItem();
     item = { num: itemMatch[1], text: inline(itemMatch[2]), bullets: [] };
+    open = [];
     continue;
   }
 
-  // Bullets nest by indent: "  - " is top level, deeper indents hang off
-  // the bullet above them (Docs exports the second level at 3+ spaces).
+  // Bullets nest by indent, to any depth: each one hangs off the nearest
+  // bullet above it that is indented less. "  - " is top level; Docs exports
+  // deeper levels at 3-4 spaces a step, so compare widths rather than assume.
   const bulletMatch = line.match(/^(\s+)-\s+(.*)$/);
   if (bulletMatch && item) {
     const b = inline(bulletMatch[2]);
     if (b) {
-      const nested = bulletMatch[1].length >= 3;
-      const parent = item.bullets[item.bullets.length - 1];
-      if (nested && parent) parent.children.push({ text: b, children: [] });
-      else item.bullets.push({ text: b, children: [] });
+      const indent = bulletMatch[1].length;
+      const node = { text: b, children: [] };
+      while (open.length && open[open.length - 1].indent >= indent) open.pop();
+      if (open.length) open[open.length - 1].node.children.push(node);
+      else item.bullets.push(node);
+      open.push({ indent, node });
     }
     continue;
   }

@@ -1,3 +1,78 @@
+**9/28**
+
+1\) OpenAI:
+  - [Introducing GPT-6 Sol and Luna, bringing Astra-level reasoning](https://x.com/openai/status/2102460975790137662?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Patreon co-founder Sam Yam joins OpenAI to lead Creator Product](https://x.com/samyamiam/status/2102503574492332141)
+  - [ChatGPT voice adds more doing](https://x.com/OpenAI/status/2102808325742322002)
+
+2\) Anthropic:
+  - [Introducing Opus 5.5, delivering Fable 5.1 intelligence at 40% reduced cost](https://x.com/claudeai/status/2102435511222890900)
+    - [Sketch to simulation](https://x.com/poolio/status/2102445641205248145)
+    - [Pelican riding a bike with three.js](https://x.com/addyosmani/status/2102436416437580159)
+    - [Designing 1113 real LEGO parts](https://x.com/victormustar/status/2103110908444631120)
+    - ["Solving" animation](https://x.com/itsolelehmann/status/2102746929184788953)
+    - [Instructional video generation](https://x.com/deedydas/status/2102787937482252537)
+    - [100 HTML files](https://x.com/miaai_lab/status/2102490829306634560?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Historically accurate SF Market street in 1906, pre-earthquake](https://x.com/alexalbert__/status/2102466523164274839)
+    - [SF in Unreal, all objects powered by Jev](https://x.com/matthewberman/status/2102483668468195539?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Claude discovered a novel CRISPR-like enzyme system at its wet lab](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr)
+  - [Introducing Claude Marketplace with 2K+ plugins and connectors](https://claude.com/blog/claude-marketplace)
+  - [Partners with OpenEvidence across ~100 developing countries](https://x.com/OpenEvidence/status/2102782987616297066)
+  - [Federal appeals court upholds Pentagon supply chain risk designation](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
+
+3\) Meta:
+  - [Meta Connect announcements](https://x.com/finkd/status/2102913005730271579)
+  - [Meta starts a Cloud business: Meta Enterprise Platform](https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/)
+  - Muse:
+    - [Vision](https://x.com/alexandr_wang/status/2103551714536439951)
+    - [Amazon cuts off Muse access](https://x.com/buccocapital/status/2102012446600794222?s=20)
+    - [Give your Muse a voice](https://x.com/Muse/status/2102901319937982968)
+    - [Connector platform has 2k+ submissions](https://x.com/jrlevine/status/2102900393059733561), including [PayPal](https://x.com/paypal/status/2102412767307194786?s=12&t=ztI5pSawHTJNtVA16s1KPw), [Instacart](https://x.com/instacart/status/2102516620602363979?s=12&t=ztI5pSawHTJNtVA16s1KPw), [Shopify](https://x.com/tobi/status/2102090718546198790), and [Expedia](https://x.com/expedia/status/2102481062429426085?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [First security vulnerability](https://x.com/dps/status/2103161493722419334)
+    - [Introducing Muse Realtime Avatar](https://x.com/alexandr_wang/status/2102919552254484765)
+    - [Introducing Muse Mail](https://x.com/alexandr_wang/status/2102915571276992875)
+    - [Introducing Muse Charm](https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8)
+    - [Meta Pay coming](https://x.com/wongmjane/status/2102746838218822011)
+    - [Integrating Meta Business into Muse for automated business operations](https://x.com/wongmjane/status/2102163039999168521)
+    - Use cases:
+      - [22 minutes to save $1,300+](https://x.com/alliekmiller/status/2103184486167191949?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+      - [How Muse can go further](https://x.com/joulee/status/2103176787710857404)
+      - [Permissions screen](https://x.com/hnshah/status/2102771971549536347)
+      - [1,081 real workflows](https://muse.ai/s/muse-use-cases-xuxf6fkdeq4oxw)
+      - [500+ prompts for your Muse](https://x.com/chrsabraham/status/2102050216929095724)
+      - [$250 credit on my Delta account](https://x.com/cryptopunk7213/status/2102179999122153690)
+      - [Personal cookbook](https://x.com/itsyusufahmed/status/2101847373555093726)
+      - [Wardrobe picker](https://x.com/shriyanevatia/status/2101868798156374315)
+  - [Introducing Horizon Create and Horizon Studio](https://x.com/wallstengine/status/2103191713561137382?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Introducing full body holograms](https://www.google.com/search?hl=en-US&hl=en-us&client=safari&hs=sS1V&sca_esv=4ebf505db5655575&q=meta+hologram&docid=betIHPM3irtdeM&ibp=video#fpstate=ive&vld=cid:513f8210,vid:kU_kCJoSOBs,st:0)
+  - [Bringing private processing to Meta AI Glasses](https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/)
+
+4\) Agents in general:
+  - [Six global banks warn agentic commerce creates heightened fraud and security risks](https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443)
+  - [Ads for agents](https://x.com/tanayj/status/2102129691956298081?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Instinct-to-Instinct network gets file sharing and more invites](https://x.com/noahrshinn/status/2102896414514688212)
+  - [NVIDIA introduces Open Agent Safety Platform to secure agents](https://nvidianews.nvidia.com/news/open-agent-safety-platform)
+
+5\) [Jev introduces a new shape of LLM: Decision Models](https://simonwillison.net/2026/Sep/21/jev/).
+
+6\) [Epoch AI: AI model training and inference costs fall roughly 47% quarterly](https://x.com/EpochAIResearch/status/2102510281176023529).
+
+7\) [Introducing MiMo-V2.6 from Xiaomi](https://mimo.xiaomi.com/mimo-v2-6), a new open-weight contender.
+
+8\) [Introducing redesigned Copilot](https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/), the OS for work.
+
+9\) [Introducing Lorikeet B2A](https://x.com/stevehind/status/2100658142346441149?s=20): a suite of tools to help businesses win the Business-to-Agent era.
+
+10\) [GenUI with Jev](https://x.com/anishfn/status/2102327334485557422).
+
+11\) Ben Thompson:
+  - [Piece 1](https://stratechery.com/2026/frontier-overhangs/): Calls by frontier labs to "pace" AI progress, while framed around safety, are fundamentally driven by economic self-interest and competitive pressure.
+  - [Piece 2](https://stratechery.com/2026/apps-agents-and-aggregation/): AI agents will commoditize traditional software and become the ultimate aggregators.
+
+12\) [Companies are shifting more and more to open weights](https://x.com/kimmonismus/status/2104500619130323274).
+
+13\) [The growth in photos taken](https://x.com/patrick_oshag/status/2103175044071612855?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
 **9/14**
 
 1\) OpenAI:

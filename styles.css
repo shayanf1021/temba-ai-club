@@ -655,6 +655,8 @@ a { color: inherit; }
   list-style-type: circle;
 }
 
+.nw-body li li > ul { list-style-type: square; }
+
 /* ---------- Resources ---------- */
 .resources {
   border-top: 1px solid var(--rule);
