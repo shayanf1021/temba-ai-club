@@ -1,3 +1,61 @@
+**10/5**
+
+1\) OpenAI:
+  - [DevDay Recap](https://openai.com/index/devday-2026-recap/)
+    - Ethan Mollick: [messy brand names](https://x.com/emollick/status/2105184972537528538)
+  - [Introducing Dots](https://openai.com/index/introducing-dots/)
+    - [Dots vs. the rest](https://x.com/petergyang/status/2105374125669884120) by Peter Yang
+    - [Dots onboarding is effectively the Personal Intelligence onboarding](https://x.com/lennysan/status/2105323098040111478)
+  - [Introducing Sign in with ChatGPT](https://x.com/vigyso/status/2105709572023607644?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [1.2B WAUs](https://x.com/thsottiaux/status/2104991765904375896)
+  - [Plugins opening up](https://x.com/gregisenberg/status/2105454208040206773)
+  - [ChatGPT can now virtually try on clothes for you](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)
+  - [OpenAI parts ways with 3 researchers it says mishandled sensitive information](https://www.cbsnews.com/news/openai-parts-ways-with-three-researchers-who-mishandled-sensitive-information/)
+  - [Cigna, OpenAI partner on AI-driven personalized cancer care](https://www.techtarget.com/healthcarepayers/news/366651176/Cigna-OpenAI-partner-on-AI-driven-personalized-cancer-care)
+  - [Vanity Fair interviews Sam](https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-1)
+  - [New visual ad format](https://openai.com/index/new-chatgpt-ads-format-and-measurement/)
+
+2\) Anthropic:
+  - [Claude can build evals and hillclimb on them](https://x.com/ClaudeDevs/status/2104676099083190435)
+  - Demos with 5.5:
+    - [A town with 10 animated rooms](https://x.com/kevin_t_ngo/status/2106015295223787709?s=20)
+    - [Jet engine with three.js](https://x.com/techartist_/status/2106064200535859685?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+    - [Playable Waymo simulation on Lombard Street](https://x.com/mindblown_ai/status/2106112279079199037?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+3\) Meta:
+  - [Muse for Small Business](https://x.com/alexandr_wang/status/2104925780547399986)
+  - [Muse passes 5M downloads](https://x.com/BrianSozzi/status/2105298394096795902), 3M WAUs
+  - [Muse has 3K+ connector submissions and dedicated portal](https://x.com/jrlevine/status/2106090127810502729?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Muse Gadgets](https://x.com/alexandr_wang/status/2106113742266089526?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+
+4\) Simon Willison: [2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/), a nice overview.
+
+5\) [Karpathy tips and tricks](https://x.com/karpathy/status/2105819303471976479?s=12&t=ztI5pSawHTJNtVA16s1KPw), including ASD-STE100 writing style.
+
+6\) [AI uses AI more than humans](https://x.com/a16z/status/2105357092697821300).
+
+7\) Instinct: [Crazy growth stats](https://x.com/patrick_oshag/status/2104575947630362792), [Instinct + Shopify](https://x.com/noahrshinn/status/2104628465488306183), [$10B valuation](https://www.reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28/).
+
+8\) [Team Bots by Grok Bot: AI coworkers that learn from your team](https://x.ai/news/team-bots).
+
+9\) Introducing:
+  - [Introducing Canvas by Shopify](https://www.shopify.com/news/introducing-canvas). Better online store design
+  - [Introducing Griffin](https://x.com/tavus/status/2105704169009246248?s=12&t=ztI5pSawHTJNtVA16s1KPw), the first model to pass the video Turing test
+  - [Introducing Project Continuum by Runway](https://x.com/runwayml/status/2105685396734853582?s=46). An OS built around real-time video interfaces
+  - [Introducing Wabi 2.0](https://x.com/ekuyda/status/2104722034433647053?s=51), a new kind of messenger/agent
+  - [Introducing Ideogram 4.5](https://x.com/ideogram_ai/status/2105327223431737780), the "most precise editing model"
+  - [Introducing Manus 2.0](https://x.com/ManusAI/status/2104592659142869352?s=20), an architectural overhaul and Cue, its personal agent
+
+10\) [98% of US households aren't paying for AI yet](https://x.com/a16z/status/2105726958021885977?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+11\) [Only 11% of ~400 businesses could forecast AI spending](https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&reflink=desktopwebshare_permalink).
+
+12\) [Text DoorDash](https://x.com/andyfang/status/2105319788423823645), no app needed.
+
+13\) [Trump calls it Superintelligence](https://x.com/WhiteHouse/status/2105292669303791687), [Elon renames to SpaceXSI](https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/), and [Gavin calls it Artificial Intelligence](https://x.com/GavinNewsom/status/2105471304161960162).
+
+14\) [Florida AG files emergency injunction to halt ChatGPT development, saying OpenAI doesn't have the ability to properly regulate its tech](https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier).
+
 **9/28**
 
 1\) OpenAI:
