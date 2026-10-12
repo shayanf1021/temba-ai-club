@@ -1,3 +1,67 @@
+**10/12**
+
+1\) OpenAI:
+  - [GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
+  - [Median researcher used $601 of coding-agent inference per day vs. $1 in Jan 2026](https://x.com/rohanpaul_ai/status/2107185067613413487?s=20).
+
+2\) Anthropic:
+  - [Don't be cruel to Claude](https://x.com/andrewcurran_/status/2108278519163912412?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Claude can turn your data into live dashboards or your ideas into animated explainers](https://x.com/claudeai/status/2108271552991252810)
+  - [What work can robots do?](https://www.anthropic.com/research/what-work-can-robots-do)
+  - [Introducing Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+  - [Claude now works inside Google Docs, Sheets, and Slides](https://x.com/claudeai/status/2107522596845822135)
+
+3\) MSFT:
+  - [Copilot Notebooks add goals, viewing and editing Office files, and pages](https://x.com/ezp4rk/status/2108649371659284924)
+  - Satya: [AI systems have insider risk because you can't trace behaviors to a specific code path](https://x.com/satyanadella/status/2108931348857827686)
+  - [Introducing Microsoft-Decision-1](https://x.com/satyanadella/status/2108627923888754862?s=12&t=ztI5pSawHTJNtVA16s1KPw), a fast decision-scoring model
+
+4\) Meta:
+  - [About half of Muse sites stopped working](https://x.com/Jessicalessin/status/2106844211773595663), [more](https://x.com/lessin/status/2108700349561487704) [reports](https://x.com/pejmanjohn/status/2108715114828603634)
+  - [Love for the Ideas tab](https://x.com/alliekmiller/status/2108903071791141055)
+  - [Muse is your next customer. How does it decide what to buy?](https://x.com/0xgaut/status/2108958723725049987)
+  - [Walgreens hangs up on Muse: "We don't speak to AI"](https://x.com/thelukewhiting/status/2108278626454253618?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Introducing the Personal Agent Protocol with Sierra](https://sierra.ai/blog/introducing-personal-agent-protocol)
+
+5\) Instinct:
+  - [Group chats](https://x.com/noahrshinn/status/2107161132192690558?s=20)
+  - [Native customer service](https://x.com/noahrshinn/status/2107875073038385546?s=51)
+  - [Flight booking, a use case used by 20%](https://x.com/noahrshinn/status/2107926694388801646)
+  - [Hotel booking with a guide](https://x.com/noahrshinn/status/2108668855006703616)
+
+6\) Patrick Collison: [mulling over agents in the economy](https://x.com/patrickc/status/2108706907859116280).
+  - Companies are the original form of superintelligence
+  - Personal agents may make us more rational in how we engage with companies
+  - Certain forms of price discrimination will work less well
+  - Predicts agents will find better products, so product quality will be more important
+
+7\) [Karpathy's funnel of AI usage](https://x.com/karpathy/status/2109361546505966046?s=12&t=ztI5pSawHTJNtVA16s1KPw), with [chart](https://x.com/pingfan_ai/status/2109370904245391725). We're still very early.
+
+8\) [Paul Graham](https://x.com/paulg/status/2108011311229747525): "Your usage restrictions are my opportunity." (referring to Amazon and personal agents)
+
+9\) [Grok Bot now has its own email](https://x.com/bot/status/2108609764766908772?s=12&t=ztI5pSawHTJNtVA16s1KPw) and will [use frontier models as needed](https://www.theinformation.com/briefings/musk-says-spacex-will-sometimes-use-rival-models-power-grok-bot).
+
+10\) [Agent business models could be about pooling demand](https://x.com/royrubin05/status/2108974894642085978?s=12&t=ztI5pSawHTJNtVA16s1KPw), [another person saying this](https://x.com/defyneric/status/2107539194490826947).
+
+11\) [Nano Banana 2.1 vs. Ideogram 4.5 over 40 edits in a row](https://x.com/emmanuel_2m/status/2107856577789046786).
+
+12\) [Video models in 4 years: Phenaki vs. today](https://x.com/RubenEVillegas/status/2107652642948427945).
+
+13\) [Introducing Fleming-1 by Sierra](https://x.com/btaylor/status/2107941012123582872); it detects when the caller on the other side of a phone call is an AI.
+
+14\) [Agent demos should focus on solving the cost of living for people](https://x.com/jimprosser/status/2108279507660726766).
+
+15\) [All games are open source now](https://x.com/rehan_shei/status/2106548006350942533), [all software is open source](https://x.com/amasad/status/2107671204639465961).
+
+16\) Future of work:
+  - [Call center jobs grew ~4% annually for 15 years; now shrinking 4% annually](https://x.com/a16z/status/2108663228029112702)
+  - [If your team is too busy doing their "normal job" to experiment with AI, you're preparing them to be replaced](https://ghuntley.com/replaced/)
+  - [How to Hire in the Age of AI](https://x.com/jdpruettt/status/2107579719462035889): AI solves the middle 70%, so test for 20/10 rule - framing problems and edge cases
+
+17\) [100 mathematicians respond to OpenAI's 500 math problems, in their own words](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/).
+
+18\) [An old, yet still great, Apple ad](https://x.com/NSJunXiu/status/2108756692741865746).
+
 **10/5**
 
 1\) OpenAI:
