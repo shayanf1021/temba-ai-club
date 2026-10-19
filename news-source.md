@@ -1,3 +1,55 @@
+**10/19**
+
+1\) OpenAI:
+  - [Tibo predictions](https://x.com/businessbarista/status/2110446668177146345?s=20):
+    - ChatGPT becomes an open platform
+    - Token speed is a new frontier
+    - Personal agents will give you your attention back
+    - Medical and scientific breakthroughs within a year
+  - [OpenAI discovers a hidden listening bug inside its offices](https://x.com/openainewsroom/status/2110095403198849132)
+
+2\) Anthropic:
+  - [Junior hiring plunges as agents outwork humans 6:1](https://www.anthropic.com/research/employment-at-anthropic)
+  - [Anthropic grants METR internal access for safety evaluations](https://www.anthropic.com/news/an-update-on-independent-evaluators)
+  - [Anthropic ditches Git for in-house Scion as merges top 30k daily](https://x.com/AnthropicAI/status/2110047081414987957)
+  - [New defenses cut model distillation attacks by 90-99%](https://www.anthropic.com/research/distillation-defenses)
+  - [Anthropic trains Claude agents to negotiate like ethical lawyers](https://x.com/rohanpaul_ai/status/2111695161164259808)
+
+3\) Meta:
+  - [Meta releases open-weight Muse Spark with 816B parameters](https://x.com/alexandr_wang/status/2110778736434184611)
+  - [Meta debuts Muse Wonder frontier agent models with Active Memory](https://about.fb.com/news/2026/10/introducing-muse-wonder-models/)
+  - [24 takeaways from Zuck & Alex Wang's podcast](https://x.com/SeijinJung/status/2109749325475844415)
+
+4\) [xAI debuts Grok Voice 3.0 with sub-second speech latency](https://x.ai/news/grok-voice-3).
+
+5\) Agents:
+  - [The 9 stages of the publisher<>agent war](https://x.com/gregisenberg/status/2111903028202852760)
+  - [Stripe Link is how agents are paying for things, up from 70 agents to 200+ in the last 30 days](https://x.com/alexrkonrad/status/2111870931551596890?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Exa is doing 2B requests per month from 200k+ teams for a Search API](https://x.com/williambryk/status/2110058915589464192?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Dan Shipper declares the newsletter dead](https://x.com/danshipper/status/2110707025826996280?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [REA lets AI agents reverse engineer any app or binary](https://github.com/morluto/rea)
+  - [Harness learning enables generalizable test-time adaptation](https://arxiv.org/pdf/2609.35738)
+
+6\) [Talent trends for the AI-native C-suite](https://www.bvp.com/atlas/talent-trends-for-the-ai-native-c-suite).
+
+7\) [Brad Smith: AI is less regulated than milk](https://www.bbc.com/news/articles/c6rmy7zmvx3lo).
+
+8\) [Lovable makes it easy to launch ad campaigns](https://x.com/Lovable/status/2110355248237928857).
+
+9\) [Figma launches Specs, giving AI agents design rulebooks on-canvas](https://x.com/zoink/status/2110607559271010422).
+
+10\) [Apple's new $299 HomeView smart home display](https://x.com/johnternus/status/2109995948407476369?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+11\) [AI generated books are crowding out sales of non-AI books](https://x.com/tuhinchakr/status/2082124139973030095?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+12\) [Churches push back on AI claims of creating consciousness](https://x.com/spirosmargaris/status/2109509401249800461).
+
+13\) [Character.ai files for Chapter 11 bankruptcy seeking a buyer](https://blog.character.ai/an-update-on-character-ai/).
+
+14\) [Introducing Bee, a personal AI wearable device](https://x.com/bee__computer/status/2110709595887055015?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+15\) [SF observations](https://x.com/gregisenberg/status/2110777852589191378?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
 **10/12**
 
 1\) OpenAI:
