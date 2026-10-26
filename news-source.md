@@ -1,3 +1,52 @@
+**10/26**
+
+1\) OpenAI:
+  - [An offline cached web to train isolated frontier models](https://openai.com/index/securing-our-frontier-model-training-environment/)
+
+2\) Anthropic:
+  - [Donates Agent Skills to the Agentic AI Foundation](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation)
+  - [Introducing Claude Duet for professionals](https://x.com/claudeai/status/2112984664256241837); [swipe right to hand off a task](https://x.com/mustafaergisi/status/2113162069428314313), [Stripe Link integrated](https://x.com/stripe/status/2112995753824301406)
+
+3\) Meta:
+  - [Muse hits 10M US downloads in 40 days](https://x.com/TechCrunch/status/2112592958939627582), [23% D14 retention](https://x.com/jbahrdestefano/status/2112544120367353872)
+  - [Voice calling rolling out](https://x.com/testingcatalog/status/2114389254927220845?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Muse takes a 100 bps cut on transactions](https://x.com/noyesclt/status/2112616997548921144)
+
+4\) Agents:
+  - [Hot takes on the agents](https://x.com/rileybrown/status/2113773696863064377?s=12&t=ztI5pSawHTJNtVA16s1KPw) and [10 predictions](https://x.com/SeijinJung/status/2112781723343970707) and [Agent Wars](https://x.com/gregisenberg/status/2111903028202852760)
+  - [Walmart's agent terms](https://x.com/eric_seufert/status/2114389379103760676?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [1Password launches credential manager for personal AI agents](https://x.com/1Password/status/2113276767582498943)
+  - [Grok Bot can use iOS Calendar, Reminders, Contacts](https://x.com/bot/status/2113393684209176718)
+  - [US banks are blocking third-party AI agents access to customer accounts](https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/)
+  - [Agents are eating discovery, so what happens to marketplaces?](https://x.com/livjenkss/status/2112552767642374364?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [How scared should Amazon be of agents?](https://www.danhock.co/p/how-scared-should-amazon-be-of-agents)
+  - [Town, AI agents for small teams, now a unicorn](https://www.globenewswire.com/news-release/2026/10/19/3383492/0/en/town-raises-108m-series-b-at-a-1b-valuation-to-bring-ai-assistants-to-whole-teams.html)
+  - [Stripe Link integrations](https://x.com/alexrkonrad/status/2111870931551596890?s=12&t=ztI5pSawHTJNtVA16s1KPw): Grew from 70 to 200 agents from Sep to Oct
+
+5\) Open source:
+  - [Introducing Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro), with 1M context and 3D modeling from Moonshot
+  - [Introducing MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f), with 70% lower agentic costs
+
+6\) [Startup ideas](https://x.com/gregisenberg/status/2113721373482987970?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+7\) [PHP vulnerability on Cloudflare](https://x.com/eastdakota/status/2113079352682570051): In the 10 hours before it was publicly announced, we saw thousands of attempts to exploit it. That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within 2 hours, and millions a few hours after that.
+
+8\) [Introducing Dessa](https://block.xyz/dessa), a voice model trained only on human speech from Block.
+
+9\) [Introducing Canva Craft](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/), an image model trained on human templates; from [Leonardo.ai](https://leonardo.ai/) acquisition.
+
+10\) [Introducing Warp](https://x.com/kevinweil/status/2113294659636396051), a drug discovery company from Kevin Weil.
+
+11\) [Introducing AA-PersonalityBench](https://x.com/ArtificialAnlys/status/2112249300860444927), measuring model behavior.
+
+12\) [Musk promises a SpaceX share for every child in America](https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html).
+
+13\) [Hospitals are now paying for AI companies to disrupt them](https://x.com/jselanikio/status/2112532795012641036?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
+14\) [SemiAnalysis 2027 in data centers](https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration), [no signs of AI payoff outside the tech sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector).
+
+15\) [What happens when you receive one email these days](https://x.com/nichochar/status/2112950310276944354).
+
 **10/19**
 
 1\) OpenAI:
