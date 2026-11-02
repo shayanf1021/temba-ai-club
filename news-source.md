@@ -1,3 +1,68 @@
+**11/2**
+
+1\) OpenAI:
+  - [Introducing GPT-6.1 Terra for fast, low-cost computer use](https://openai.com/index/introducing-gpt-6-1-terra/)
+  - [iMessage or RCS your Dot for Pro users in US](https://x.com/ChatGPT/status/2115496387613786374)
+  - [ChatGPT in the long tail of specialized knowledge worker tasks](https://openai.com/index/chatgpt-expanding-world-of-work/)
+  - [Abandoning a "default" AI voice, you focus on the outcome and context of the problem](https://openai.com/index/updated-model-spec/)
+  - [Disproves the Exponential Time Hypothesis in mathematics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+
+2\) Anthropic:
+  - [S-1 is out](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+    - $16.3B in 1H26 (up 14x year-over-year)
+    - Enterprise customers make up 82% of total revenue
+    - Paid-user gross margins increased from 40% in 2025 to 85% in 1H26
+    - Cloud service providers (mainly AWS Bedrock) brought in 48% of 1H26 revenue
+  - [New in Claude for Legal: a gallery of artifacts for contract review, cite checks, and more](https://x.com/claudeai/status/2115467192276025500)
+
+3\) Meta:
+  - [Muse "digging for gold" in your inbox](https://x.com/ShaneMac/status/2115461420410138804)
+  - [Muse <> IG nice integration](https://x.com/briechong/status/2115303444118643034)
+  - [Voice mode in Muse](https://x.com/jjenglert/status/2114807622096306285?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Writing style vs. Chat, Gemini, AIM](https://x.com/sytaylor/status/2115747212852363548?s=46&t=M87sNES9IAKAg7hPJvw7mQ)
+  - [Introducing Style Sketch](https://x.com/MattNavarra/status/2115263172923756995), a separate wardrobe app based on photos
+
+4\) Instinct:
+  - [Instinct in group chats](https://x.com/noahrshinn/status/2115143830924341534)
+  - [Instinct with a budget](https://x.com/noahrshinn/status/2114796685251826016?s=12&t=ztI5pSawHTJNtVA16s1KPw)
+  - [Instinct + OpenTable](https://x.com/noahrshinn/status/2116244379375694059)
+  - [Check out anywhere with Shop Pay](https://x.com/noahrshinn/status/2115521853775388931)
+
+5\) [Small teams, big swarms](https://x.com/jsnnsa/article/2115623382721126826)
+  - Spawn uses a massive fleet of agents to ship 77,000 code changes a month with only 10 human employees
+  - The autonomous agents directly edit live code, fix user bugs, and recover from errors in production without traditional human code reviews
+  - Human engineers have shifted away from writing code to acting as judges of taste who set direction and architectural boundaries
+
+6\) Other AI-native product development examples:
+  - [Coinbase](https://x.com/tanayj/status/2116313952888263141?s=12): /feedback allows agents to message teams directly
+  - [DeepSeek](https://x.com/Smlay_ero/status/2116523210816782629?s=20): open sourced a tool that watches GitHub for you and takes a first pass at bugs
+  - [Cisco](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts): gives a 27-year-old unlimited tokens to rewrite its legacy code
+  - [HackerTube from Karpathy](https://x.com/karpathy/status/2116957135661945283?s=12)
+
+7\) Agentic commerce:
+  - [Introducing opencommerce](https://x.com/keyserfaty/status/2116205805704020056?s=12), the openrouter for commerce
+  - [Amazon insisting agents use Alexa for shopping on the site](https://x.com/eric_seufert/status/2116181348062814242) (similar to Walmart and Sparky)
+
+8\) Macro factors:
+  - [Microsoft offers buyouts to 60,000 workers](https://www.bloomberg.com/news/articles/2026-10-26/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzA5Mzg5MSwiZXhwIjoxNzkzNjk4NjkxLCJhcnRpY2xlSWQiOiJUTFFOUVRUMFEwNU8wMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.d41s_r86Qj3kS1GZk14LauZ-aF7BsqiR36xTzQ57eB8)
+  - [Neoclouds run on airline economics](https://x.com/alexsongis/status/2115110758816023039)
+
+9\) [TaskNet, from Mercor, found 79 tasks missing from O*NET](https://www.mercor.com/blog/introducing-tasknet-a-new-taxonomy-of-work/).
+
+10\) [Qwen3.8 attempted to push a diagnostic file toward a remote storage container situated in Beijing](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model).
+
+11\) [AI turns creation into the new consumption](https://x.com/FarzaTV/status/2115593097044426997?s=03).
+
+12\) [Introducing the Marginal Revolution archive, optimized for agents](https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html).
+
+13\) [Subvocal (YC F26) lets you speak silently, and it reads the minute movements of your face](https://x.com/dflieb/status/2116205894941978754).
+
+14\) [All employees come in 5 levels, choose Level 5s](https://x.com/Codie_Sanchez/status/2115465379757649925).
+
+15\) [Learn forgotten skills from extraordinary people](https://www.wildtales.earth/).
+
+16\) [A dashboard tracking city council meeting hearings: #1 topic is data centers, #2 pickle ball](https://x.com/turnernovak/status/2114560778091053416?s=12&t=ztI5pSawHTJNtVA16s1KPw).
+
 **10/26**
 
 1\) OpenAI:
