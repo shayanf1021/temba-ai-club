@@ -1,3 +1,57 @@
+**11/9**
+
+1\) OpenAI:
+  - [ChatGPT hits 1.2B WAUs; search volume 20% of Google; 250M WAUs speak with it](https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20)
+  - [ChatGPT adds animated GIFs](https://x.com/OpenAI/status/2118124944928432327?s=03) as part of [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+  - [Introducing the Grid Protectors Program for data center flex power](https://openai.com/index/grid-protectors-program/)
+  - [Agentic source control](https://openai.com/index/scaling-git-at-openai/)
+  - [Acquires Pierre to integrate agent-native Git workflows into Codex](https://openai.com/index/openai-to-acquire-pierre/)
+  - [OpenAI autonomous cyber agents discover 948 Linux kernel exploits](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+
+2\) Anthropic:
+  - [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://x.com/claudeai/status/2119867114450268322)
+  - [Claude adds personal finance tool to analyze bank spending](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/)
+  - [Anthropic signs its first publisher licensing deal with the AP](https://www.adweek.com/media/anthropic-licensing-deal-ap-election/)
+
+3\) Meta:
+  - [Introducing Muse Ember](https://x.com/finkd/status/2119851180948152590), the smallest model for token-heavy work that agents repeat all day
+  - [Acquires AI coding startup Conductor](https://www.conductor.build/announcement)
+  - Muse adds [dancing avatar](https://x.com/alexandr_wang/status/2117722403996569768), [live voice chat](https://x.com/muse/status/2118411960337289583?s=12), and [Spaces](https://x.com/finkd/status/2118765774034579808?s=12)
+  - [Muse adds shopping carts with native UI connectors](https://x.com/juokaz/status/2117566136858423597)
+
+4\) Agents:
+  - [LifeArena benchmark for personal AI assistants](https://x.com/DesignArena/status/2118763090888294598?s=03)
+  - [Introducing LifeVal from OpenAI for measuring progress on everyday tasks](https://openai.com/index/lifeval/)
+  - [Instinct agent wins $700 flight delay compensation](https://x.com/deedydas/status/2117553817013329959)
+  - [Brian Armstrong using a central chief of staff agent](https://x.com/brian_armstrong/status/2119112609223827547?s=12)
+
+5\) Apple:
+  - [Opens Siri AI developer preview to all apps](https://x.com/mgorbach/status/2117697430825447839)
+  - [Apple cuts internal employee AI token budgets to curb costs](https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgyMTg3MSwiZXhwIjoxNzk0NDI2NjcxLCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.efg5gZUg_bpWGkDdX9in4eLTEutSs8WX9rD17IHSi_o&leadSource=article-gifting)
+  - [$1,000 roaming robot for FaceTime and home monitoring](https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/)
+
+6\) [Under 18](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/): Meta expanding its AI age-estimation tech globally to automatically place suspected teens into Teen Accounts on Instagram, even if they signed up with an adult birthday.
+
+7\) [Disney and Adobe are partnering to build custom, franchise-trained AI models via Adobe Firefly Foundry](https://www.businesswire.com/news/home/20261109707511/en/Adobe-and-The-Walt-Disney-Company-Announce-Multi-Year-Strategic-Alliance-to-Support-Disney-Innovation-with-New-AI-Powered-Tools).
+
+8\) [Canva cuts 22% of its workforce in AI reorg](https://www.canva.com/newsroom/news/canva-team-update/).
+  - [US professional services add 70K jobs despite AI fears](https://x.com/scottlincicome/status/2119103619609817416)
+
+9\) [Enterprise AI spending surges 5.4x to $177B](https://x.com/deedydas/status/2117803499102822424).
+
+10\) [Subvocal glasses type words from silent mouthing](https://x.com/dflieb/status/2117760027289350470?a=P8kN0TdtErlsbjKC5Vo&s=12).
+
+11\) [LLMs can natively read & write neural network weights](https://rikiyat.github.io/blog/weight-space-programming/); implication: "Weight-Space Programming" could unlock surgical, compute-light fixes and bypass costly retraining.
+
+12\) Data centers:
+  - [Elon](https://x.com/elonmusk/status/2117862462976594112): Data centers in space looking pretty appealing right now
+  - [Texas election sweep threatens the booming AI data center buildout](https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout)
+  - [SpaceX targets 13GW by 2027 to build the largest AI cloud](https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will)
+
+13\) [Architectural drawings drop from 1.5 years to 8 minutes with AI](https://x.com/lennysan/status/2117721820426355145).
+
+14\) Viral trend: In South Korea, non-technical creators use AI coding agents to build simple 3D social spaces to hang out like temples ([sansatemple.com](https://sansatemple.com/)) and duck ponds ([waitduck.com](https://waitduck.com/)), similar to Animal Crossing.
+
 **11/2**
 
 1\) OpenAI:
