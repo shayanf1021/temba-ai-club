@@ -1,3 +1,42 @@
+**11/16**
+
+1\) OpenAI:
+  - [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/) and a [critique](https://x.com/sytaylor/status/2121287550539100342?s=46)
+  - [Introducing Businesses in ChatGPT](https://x.com/OpenAI/status/2120216592395174382?s=03), going into Beta
+  - [OpenTable's OpenAI integration drove 190,000 restaurant covers in September](https://x.com/juokaz/status/2119504752585376084)
+
+2\) Anthropic:
+  - [Anthropic launches its IPO roadshow targeting $70 to $78 per share](https://www.anthropic.com/news/roadshow-launch)
+  - [Introducing Claude Whiteboards, Claude Sheets and Claude Data](https://x.com/claudeai/status/2120206365759094857)
+  - [Introducing Claude Meetings](https://x.com/claudeai/status/2120973994191094179?s=12), add Claude to your team's video calls
+
+3\) Meta:
+  - [Muse launches a Chrome extension](https://x.com/testingcatalog/status/2121260921435623813?s=12)
+  - [Muse uses Uber Courier for Marketplace local deliveries](https://x.com/juokaz/status/2120081504483397740)
+  - [Introducing Poppy](https://x.com/dps/status/2121337382557610062?s=12), an open standard for personal agents on the web
+  - [Muse now makes phone calls for US paid subscribers](https://x.com/alexandr_wang/status/2120930586827391350?a=w3yTNmvlalAyUQQn6j0&s=12)
+
+4\) Agents:
+  - [Most SaaS should become an MCP server](https://x.com/nicbstme/status/2121690979904446885)
+  - [Instinct + Zocdoc to book doctor visits](https://x.com/noahrshinn/status/2120634672883646807?s=03)
+  - [United Airlines bans AI bots from booking flights](https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?st=ytrzi1)
+  - [Ramp hid a secret offer on its website that only AI could see](https://x.com/CrowdReply_io/status/2119809230861746556)
+  - [Shopify: 74% of AI-attributed purchases on Shopify in Q3 came from outside its top 100 product categories](https://x.com/tanayj/status/2120310537707827328?s=12)
+
+5\) [Microsoft blames global outage on network upgrade, not cyber or AI](https://x.com/microsoft/status/2121282013600907325).
+
+6\) [Amazon unveils Ring Robotics security rover and drone](https://ring.com/ring-robotics).
+
+7\) [Cursor launches multiplayer coding with AI bots](https://x.com/mattyp/status/2120307529674883177).
+
+8\) [Introducing Buzz 1.0](https://buzz.xyz/), a new native workspace for human + agent teams.
+
+9\) [Introducing Qwen4-Max](https://qwen.ai/blog?id=qwen4-max), from Alibaba, beats Fable 5.1 and not open weight.
+
+10\) [Inside the First AI Music Awards](https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/).
+
+11\) [Moving photos across Huawei phones with hand gestures](https://x.com/CodeByPoonam/status/2122320187936718908).
+
 **11/9**
 
 1\) OpenAI:
